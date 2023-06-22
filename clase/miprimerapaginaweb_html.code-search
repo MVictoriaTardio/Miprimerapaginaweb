@@ -1,0 +1,32 @@
+# Query: miprimerapaginaweb.html
+# ContextLines: 1
+
+8 results - 4 files
+
+clase\contact.html:
+  26                  <nav class="navbar">
+  27:                   <a href="miprimerapaginaweb.html" class="brand">Mi página web</a>
+  28                    <ul class="nav-links">
+  29:                     <li><a href="miprimerapaginaweb.html">Home</a></li>
+  30                      <li><a href="#">About</a></li>
+
+clase\index.html:
+  27                  <nav class="navbar" role="navigation"></nav>
+  28:                   <a href="miprimerapaginaweb.html" class="brand">Mi página web</a>
+  29                    <ul class="nav-links">
+  30:                     <li><a href="miprimerapaginaweb.html">Home</a></li>
+  31                      <li><a href="sobrenosotros.html">Yosoy</a></li>
+
+clase\services.html:
+  26                  <nav class="navbar">
+  27:                   <a href="miprimerapaginaweb.html" class="brand">Mi página web</a>
+  28                    <ul class="nav-links">
+  29:                     <li><a href="miprimerapaginaweb.html">Home</a></li>
+  30                      <li><a href="#">About</a></li>
+
+clase\sobrenosotros.html:
+  23                  <nav class="navbar" role="navigation"></nav>
+  24:                   <a href="miprimerapaginaweb.html" class="brand">Mi página web</a>
+  25                    <ul class="nav-links">
+  26:                     <li><a href="miprimerapaginaweb.html">Home</a></li>
+  27                      <li><a href="sobrenosotros.html>"> Yosoy </a></li>
